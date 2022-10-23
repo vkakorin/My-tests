@@ -16,3 +16,7 @@ This repo for my tests examples
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python)
 ![Jira](https://img.shields.io/badge/-Jira-090909?style=for-the-badge&logo=jira)
 ![TestRail](https://img.shields.io/badge/-TestRail-090909?style=for-the-badge&logo=testrail)
+
+## You can find and contact me
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/vkakorin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=telegram)](https://www.linkedin.com/in/viktor-kakorin-666636a9)
